@@ -1,0 +1,6 @@
+header background color:#06121D
+menu hover color:#ed9322
+headings color:#2A2E35
+trigger color:#F5F5F5
+button colors:#ED9322
+footer color:#06121D
